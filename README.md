@@ -16,5 +16,9 @@ $ sudo apt-get autoremove
 
 Because I already have Git on this computer I upgraded with 
 
-git clone https://github.com/git/git.git
+$ git clone https://github.com/git/git.git
+
+Changed the editor with 
+
+$ git config --global core.editor emacs
 
