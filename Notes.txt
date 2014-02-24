@@ -1,0 +1,13 @@
+I have just downloaded the zip file of this repository.
+I unzipped it to a directory called git without the dot.
+I am now writing this note.
+I will save it in the directory which I just unzipped.
+I will #git init to create a .git sub-directory.
+I will # git add to put this and other files into the .git directory.
+I will # git commit to make finalize those files.
+I will # git push to put those files into the github server. 
+I will go back to see what I did wrong.
+I will need my directory name which is https://github.com/Slashthedragon/My_sandbox.git
+I will need my user name.
+I will need my password which is a pain in the ass.
+Now time to save this and see what happens.
