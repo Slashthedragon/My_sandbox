@@ -14,3 +14,13 @@ Now time to save this and see what happens.
 
 Well that didn't work.
 
+It worked.
+
+I had to do a # git pull https://... while in the directory. Parent of the .git.
+This is the directory which contained this file.
+I did a # git add . (That is a dot at the end)
+Then I did the # git commit.
+This forced me to add a note in VIM. Esc is what switches to the command mode in VIM.
+:wq <enter> is what writes it and quits the editor.  That is a collon before the wq.
+I am editing this in the github editor.
+
